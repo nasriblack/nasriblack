@@ -71,20 +71,6 @@ I'm a **Full Stack JavaScript/TypeScript developer** with 5 years of hands-on ex
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-![Nasereddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasriblack&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasriblack&layout=compact&theme=github_dark&hide_border=true)
-
-## 📈 Contribution Activity
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nasriblack&theme=github-dark&hide_border=true&bg_color=0D1117)](https://github.com/nasriblack)
-
-*Shows your daily commits and contribution activity over time — the green squares that matter!*
-
----
-
 ## 🌟 Highlights
 
 ✅ **5+ years** of production experience  
@@ -122,40 +108,7 @@ I'm a **Full Stack JavaScript/TypeScript developer** with 5 years of hands-on ex
 
 ---
 
-## 💭 Philosophy
 
-> "Code is read 10x more than it's written. Write for the next person who reads it — probably future you." 
 
-I believe in:
-- ✨ Clarity over cleverness
-- 🧪 Tests as living documentation
-- 🤝 Collaboration & knowledge sharing
-- 📈 Continuous learning & growth
-- 🎯 Shipping value, not features
 
----
-
-## 🚀 Currently
-
-- 🔨 Building ETL orchestration platforms @ Sofrecom
-- 📖 Mastering React Flow & complex visualizations
-- 🤖 Exploring AI-augmented development workflows
-- 💬 Open to freelance/contract opportunities
-- 🌍 Remote-first, based in Tunis
-
----
-
-## Fun Facts
-
-- 🇹🇳 From Tunisia, working with teams across France, Europe, and beyond
-- 🎮 Hobby: exploring how games handle complex state management
-- 📚 Reading: Architecture books, React patterns, database design
-- ⚡ Coffee fuel: Espresso-driven development
-
----
-
-### "Every expert was once a beginner. The difference is they didn't stop." — Unknown
-
----
-
-*Last updated: July 2026 | [Portfolio](https://nasereddine-lakhal.vercel.app/) | [CV](https://github.com/nasriblack/resume)*
+*Last updated: July 2026 | [Portfolio](https://nasereddine-lakhal.vercel.app/)*
