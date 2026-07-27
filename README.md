@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-I'm a **Full Stack JavaScript/TypeScript developer** with 5 years of hands-on experience building scalable web applications and APIs. Passionate about **clean code**, **automated testing**, and **thoughtful architecture**. Currently based in **Tunis** 🇹🇳, open to **remote/hybrid** opportunities across Europe.
+I'm a **Full Stack JavaScript/TypeScript developer** with 5 years of hands-on experience building scalable web applications and APIs. Passionate about **clean code**, **automated testing**, and **thoughtful architecture**. Currently based in **Tunis** 🇹🇳.
 
 **What I do best:**
 - 🎨 Design & build complex UI systems (React, React Flow, Next.js)
