@@ -83,14 +83,6 @@ I'm a **Full Stack JavaScript/TypeScript developer** with 5 years of hands-on ex
 
 ---
 
-## 📚 Latest Blog Ideas
-
-- 📝 "React Flow: Building Visual UIs Without Losing Your Mind"
-- 📝 "Cypress + Gherkin: Bridging Product & Engineering with BDD"
-- 📝 "Performance Optimization: The 40% Speedup Story"
-- 📝 "Full-Stack TypeScript: From React to Nest.js"
-
----
 
 ## 🤝 Let's Connect
 
